@@ -1,3 +1,5 @@
-# CMake AVR Template
+# Button Debounce on AVR Microcontrollers
 
-CMake template for AVR development
+A simple example of button debounce on AVR using a timer in CTC mode.
+
+Read the explanation on the [short circuit audio website](https://shortcircuitaudio.com/2021/10/09/button-debounce-on-avr-microcontrollers/).
